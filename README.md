@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Alison Hartshorn
 
 # 💫 About Me:
-I am a Data Science Masters student. I work with the languages SQL Python R and work with tools such as Tableau and Power BI. I am up to exploring machine learning with scikit-learn. 
+I am a Master’s student in Data Science with a passion for turning complex data into actionable insights. Skilled in Python, SQL, and machine learning for solving real-world problems. Driven to leverage analytics for impactful decision-making and innovative solutions.
 
 
 ## 🌐 Socials:
