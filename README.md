@@ -6,7 +6,7 @@ I'm a Data Science Master's candidate (expected June 2026) with hands-on experie
 ## 🔭 Featured Projects:
 - 🏠 **Rent Burden Prediction** — Fairness & ML analysis on 16M+ ACS PUMS household records (Logistic Regression, Random Forest, Gradient Boosting); equity analysis across race, sex, and geography for HUD policy context
 - 📉 **Customer Attrition Prediction** — XGBoost churn model in R achieving 96% accuracy & AUC 0.99; SHAP values used to surface top business drivers
-- 🏦 **Home Loan Approval Prediction** — Full ML workflow in Python with SMOTE for class imbalance; improved rejected loan recall from 0.42 → 0.66
+- 🏦 **Home Loan Approval Prediction** — ML pipeline on 4.25M real HMDA 2023 mortgage applications; XGBoost ROC-AUC 0.9932, 96.3% accuracy across 121 features
 - 🏗️ **Construction Project Management Dashboard** — PostgreSQL analytics + interactive Tableau dashboard with KPI cards, risk scores, and delay trend analysis
 - ☕ **Café Sales Data Cleaning & Analysis** — SQL pipeline to clean and standardize transaction records; findings visualized in Tableau & Power BI
 
