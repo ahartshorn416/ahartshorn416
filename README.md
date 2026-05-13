@@ -8,8 +8,6 @@ I'm a Data Science Master's candidate (expected June 2026) with hands-on experie
 - 📉 **Customer Attrition Prediction** — XGBoost churn model in R achieving 96% accuracy & AUC 0.99; SHAP values used to surface top business drivers
 - 🏦 **Home Loan Approval Prediction** — ML pipeline on 4.25M real HMDA 2023 mortgage applications; XGBoost ROC-AUC 0.9932, 96.3% accuracy across 121 features
 - 📊 **Marketing Campaign Effectiveness** — End-to-end ROI analysis for Nike Inc. using real Google Trends (pytrends API) + SEC EDGAR 10-K filings; ROAS modeling, lag correlation, and 6-panel dashboard in Python
-- 🏗️ **Construction Project Management Dashboard** — PostgreSQL analytics + interactive Tableau dashboard with KPI cards, risk scores, and delay trend analysis
-- ☕ **Café Sales Data Cleaning & Analysis** — SQL pipeline to clean and standardize transaction records; findings visualized in Tableau & Power BI
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alison-hartshorn)
